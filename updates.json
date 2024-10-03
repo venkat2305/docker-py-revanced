@@ -1,1 +1,146 @@
-{}
+{
+    "youtube": {
+        "app_version": "19.16.39",
+        "integrations_version": "v1.15.0",
+        "patches_version": "v4.16.0",
+        "cli_version": "v4.6.0",
+        "patches_json_version": "v4.16.0",
+        "ms_epoch_since_patched": 1727987620112,
+        "date_patched": "2024-10-03 20:33:40.112387+05:30",
+        "app_dump": {
+            "app_name": "youtube",
+            "app_version": "19.16.39",
+            "experiment": false,
+            "cli_dl": "https://github.com/revanced/revanced-cli/releases/latest",
+            "patches_dl": "https://github.com/revanced/revanced-patches/releases/latest",
+            "integrations_dl": "https://github.com/revanced/revanced-integrations/releases/latest",
+            "patches_json_dl": "https://github.com/revanced/revanced-patches/releases/latest",
+            "exclude_request": [],
+            "include_request": [],
+            "resource": {
+                "cli": {
+                    "file_name": "d1dd3f8bdff4c4fbedc02f74dc4a853217af9769fcb559fe394d77806114dc55.jar",
+                    "version": "v4.6.0"
+                },
+                "integrations": {
+                    "file_name": "85c2101509a0f7825d928a0d5fa243f257facad6aef0bc8c552ee399f7f28a65.apk",
+                    "version": "v1.15.0"
+                },
+                "patches": {
+                    "file_name": "7d13c2540b41151aa0e5171f1a72146d1f1a15a5b4bb9c44c84b54d35b43ecc7.jar",
+                    "version": "v4.16.0"
+                },
+                "patches_json": {
+                    "file_name": "64edb8beb36f1d59bd5e00ecdcc9dd19fe8264529d6ecaba42522fdb3af00831.json",
+                    "version": "v4.16.0"
+                }
+            },
+            "no_of_patches": 63,
+            "keystore_name": "revanced.keystore",
+            "archs_to_build": [],
+            "options_file": "options.json",
+            "download_file_name": "youtube.apk",
+            "download_dl": "https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=6148753&key=212fca163bd1dd5fabfce6121c1bd0a5ee55f499&forcebaseapk=true",
+            "download_source": "https://www.apkmirror.com/apk/google-inc/youtube/",
+            "package_name": "com.google.android.youtube",
+            "old_key": true,
+            "space_formatted": true
+        }
+    },
+    "youtube_music": {
+        "app_version": "7.03.52",
+        "integrations_version": "v1.15.0",
+        "patches_version": "v4.16.0",
+        "cli_version": "v4.6.0",
+        "patches_json_version": "v4.16.0",
+        "ms_epoch_since_patched": 1727987674633,
+        "date_patched": "2024-10-03 20:34:34.633018+05:30",
+        "app_dump": {
+            "app_name": "youtube_music",
+            "app_version": "7.03.52",
+            "experiment": false,
+            "cli_dl": "https://github.com/revanced/revanced-cli/releases/latest",
+            "patches_dl": "https://github.com/revanced/revanced-patches/releases/latest",
+            "integrations_dl": "https://github.com/revanced/revanced-integrations/releases/latest",
+            "patches_json_dl": "https://github.com/revanced/revanced-patches/releases/latest",
+            "exclude_request": [],
+            "include_request": [],
+            "resource": {
+                "cli": {
+                    "file_name": "d1dd3f8bdff4c4fbedc02f74dc4a853217af9769fcb559fe394d77806114dc55.jar",
+                    "version": "v4.6.0"
+                },
+                "integrations": {
+                    "file_name": "85c2101509a0f7825d928a0d5fa243f257facad6aef0bc8c552ee399f7f28a65.apk",
+                    "version": "v1.15.0"
+                },
+                "patches": {
+                    "file_name": "7d13c2540b41151aa0e5171f1a72146d1f1a15a5b4bb9c44c84b54d35b43ecc7.jar",
+                    "version": "v4.16.0"
+                },
+                "patches_json": {
+                    "file_name": "64edb8beb36f1d59bd5e00ecdcc9dd19fe8264529d6ecaba42522fdb3af00831.json",
+                    "version": "v4.16.0"
+                }
+            },
+            "no_of_patches": 10,
+            "keystore_name": "revanced.keystore",
+            "archs_to_build": [],
+            "options_file": "options.json",
+            "download_file_name": "youtube_music.apk",
+            "download_dl": "https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=6346063&key=5dc7a34f92722597509017fdbdf89e977563c4b4&forcebaseapk=true",
+            "download_source": "https://www.apkmirror.com/apk/google-inc/youtube-music/",
+            "package_name": "com.google.android.apps.youtube.music",
+            "old_key": true,
+            "space_formatted": true
+        }
+    },
+    "trakt": {
+        "app_version": "1.1.1",
+        "integrations_version": "v1.15.0",
+        "patches_version": "v4.16.0",
+        "cli_version": "v4.6.0",
+        "patches_json_version": "v4.16.0",
+        "ms_epoch_since_patched": 1727988240181,
+        "date_patched": "2024-10-03 20:44:00.180954+05:30",
+        "app_dump": {
+            "app_name": "trakt",
+            "app_version": "1.1.1",
+            "experiment": false,
+            "cli_dl": "https://github.com/revanced/revanced-cli/releases/latest",
+            "patches_dl": "https://github.com/revanced/revanced-patches/releases/latest",
+            "integrations_dl": "https://github.com/revanced/revanced-integrations/releases/latest",
+            "patches_json_dl": "https://github.com/revanced/revanced-patches/releases/latest",
+            "exclude_request": [],
+            "include_request": [],
+            "resource": {
+                "cli": {
+                    "file_name": "d1dd3f8bdff4c4fbedc02f74dc4a853217af9769fcb559fe394d77806114dc55.jar",
+                    "version": "v4.6.0"
+                },
+                "integrations": {
+                    "file_name": "85c2101509a0f7825d928a0d5fa243f257facad6aef0bc8c552ee399f7f28a65.apk",
+                    "version": "v1.15.0"
+                },
+                "patches": {
+                    "file_name": "7d13c2540b41151aa0e5171f1a72146d1f1a15a5b4bb9c44c84b54d35b43ecc7.jar",
+                    "version": "v4.16.0"
+                },
+                "patches_json": {
+                    "file_name": "64edb8beb36f1d59bd5e00ecdcc9dd19fe8264529d6ecaba42522fdb3af00831.json",
+                    "version": "v4.16.0"
+                }
+            },
+            "no_of_patches": 1,
+            "keystore_name": "revanced.keystore",
+            "archs_to_build": [],
+            "options_file": "options.json",
+            "download_file_name": "trakt.apk",
+            "download_dl": "https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=4926435&key=8fdf491b59f53d8292d7a507dfa77723e6326802&forcebaseapk=true",
+            "download_source": "https://www.apkmirror.com/apk/trakt/trakt/",
+            "package_name": "tv.trakt.trakt",
+            "old_key": true,
+            "space_formatted": true
+        }
+    }
+}
